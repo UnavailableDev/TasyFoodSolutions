@@ -14,6 +14,7 @@ Home:
 Privat:
   -NavBar_Private
   -Moderateable Reviews
+  -(Booking)
   -
 Buisnes:
   -NavBar_Buisnes
