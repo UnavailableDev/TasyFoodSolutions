@@ -5,7 +5,7 @@ Website files for my dad
 Here wil be a To do list:
 
 Algemeen:
-  -Bottom contact
+  -Contact (At the bottom)
   -
   
 Home:
@@ -18,4 +18,5 @@ Privat:
   -
 Buisnes:
   -NavBar_Buisnes
+  -Info
   -
