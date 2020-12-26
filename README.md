@@ -10,7 +10,7 @@ Algemeen:
   
 Home:
   -Selector Prive/zakelijk
-  -
+  -Moderateable Reviews
 Privat:
   -NavBar_Private
   -
