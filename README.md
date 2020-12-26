@@ -10,10 +10,10 @@ Algemeen:
   
 Home:
   -Selector Prive/zakelijk
-  -Moderateable Reviews
   -
 Privat:
   -NavBar_Private
+  -Moderateable Reviews
   -
 Buisnes:
   -NavBar_Buisnes
